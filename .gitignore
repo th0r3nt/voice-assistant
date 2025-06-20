@@ -1,0 +1,13 @@
+secrets.py
+
+__pycache__/
+*.pyc
+
+*.session
+*.session-journal
+
+*.log
+
+*.exe
+
+.vscode/
